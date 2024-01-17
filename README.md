@@ -1,4 +1,4 @@
-# Steam-generator-nuclear-power-
+# Steam-Generator-Nuclear-Power-Control
 
 The function of a SG in a nuclear power plant is to transfer the heat generated in the reactor core (primary side) to the water that circulates in the secondary side, creating the steam that will drive the turbines. To that end, the hot water coming from the reactor core flows inside the U-tubes (see Figure) and transfers the heat to the water on the secondary side flowing through the shell side or riser, creating a two-phase flow.In the steam separator region, the liquid water is separated from the steam, and recirculated back to the riser through the downcomer. The steam generated accumulates inside the steam dome and flows outside through a series of valves to drive the turbines. The water level is measured inside the downcomer and has to be kept within some pre-defined range for proper operation of the steam generator. 
 
