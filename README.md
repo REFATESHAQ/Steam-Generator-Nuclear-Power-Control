@@ -9,7 +9,7 @@ Refat Mohamed Abdullah Eshaq declares and claims the following:
 
 The function of a steam generator (SG) in a nuclear power plant is to transfer the heat generated in the reactor core (primary side) to the water that circulates in the secondary side, creating the steam that will drive the turbines. To that end, the hot water coming from the reactor core flows inside the U-tubes (see Figure) and transfers the heat to the water on the secondary side flowing through the shell side or riser, creating a two-phase flow.In the steam separator region, the liquid water is separated from the steam, and recirculated back to the riser through the downcomer. The steam generated accumulates inside the steam dome and flows outside through a series of valves to drive the turbines. The water level is measured inside the downcomer and has to be kept within some pre-defined range for proper operation of the steam generator. 
 
-![Generic_Nuclear_PWR_Steam_Generator svg](https://github.com/REFATESHAQ/Steam-generator-nuclear-power-/assets/48349737/a485f51a-7cc7-4cdd-99d0-6f5f582b8e67)
+![_cgi-bin_mmwebwx-bin_webwxgetmsgimg__ MsgID=5868030111270194911 skey=@crypt_15c29c41_6d33599d9dcb47f8d2d1cf4889b52f53 mmweb_appid=wx_webfilehelper](https://github.com/user-attachments/assets/53235855-a946-4a53-86c9-98008105fe5f)
 
 ## The Importance and Problems of Water Level Control 
 
