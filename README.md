@@ -5,7 +5,7 @@ AUTHORS’ DECLARATION
 Refat Mohamed Abdullah Eshaq declares and claims the following:
 1. No one can use and develop this code or merge it with any other codes under any circumstances without explicit permission from the author of this project. If you redistribute the adjusted materials, the author have the right to prosecute individuals, journals, institutions, and even governments.
 2. These results are just part of our future work.
-3. This work has been built based on the result of the thesis (Ramalho, F.P., 2002. Nonlinear H-infinity control of nuclear steam generators. University of Michigan)
+3. This work has been built based on the result of the thesis (### Ramalho, F.P., 2002. Nonlinear H-infinity control of nuclear steam generators. University of Michigan)
    
 ####################################################################
 
